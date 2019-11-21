@@ -1,0 +1,7 @@
+setup.py
+dlgo.egg-info/PKG-INFO
+dlgo.egg-info/SOURCES.txt
+dlgo.egg-info/dependency_links.txt
+dlgo.egg-info/not-zip-safe
+dlgo.egg-info/requires.txt
+dlgo.egg-info/top_level.txt
